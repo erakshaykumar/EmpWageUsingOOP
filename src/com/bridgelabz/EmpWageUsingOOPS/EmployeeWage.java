@@ -34,7 +34,7 @@ class Employee {
 	//Main Class And Methods
 public class EmployeeWage {
 	public static void main(String[] args) {
-		System.out.println("Welcome to Employee Wage Computation Program on Master Branch");
+		System.out.println("Welcome To Employee Wage Computation Using OOP's Concept");
 		int empCheck = Employee.empCheck();
 		Employee.empSalary(empCheck);
 	}
